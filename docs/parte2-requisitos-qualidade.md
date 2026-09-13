@@ -4,11 +4,10 @@ Disciplina: Qualidade de Software — AV1 (2026.2) · Responsáveis: Daniel + Fi
 
 **Projeto:** [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) — Apache 2.0
 **Recorte avaliado:** fontes, planejamento e confabulação
-**Cobertura deste documento:** RQ-01 a RQ-08. RQ-09 em diante fica com o segundo responsável.
 
 ## Premissa dos critérios
  
-Os critérios abaixo assumem que a resposta do agente é insumo para decisão humana, com revisão antes do uso. Por isso exigem verificabilidade da fonte, declaração explícita de incerteza e ponto de controle humano, em vez de acerto absoluto do modelo.
+Os critérios abaixo assumem que a resposta do agente é insumo para decisão humana, com revisão antes do uso. Por isso exigem verificação da fonte, declaração explícita de incerteza e ponto de controle humano, em vez de acerto absoluto do modelo.
  
 ## Requisitos
  
@@ -22,3 +21,7 @@ Os critérios abaixo assumem que a resposta do agente é insumo para decisão hu
 | RQ-06 | Manter consistência de conclusão entre execuções repetidas da mesma pergunta. | Confiabilidade | Média | Cinco execuções da mesma pergunta, com parâmetros de decodificação fixos, com concordância ≥80% nas conclusões factuais principais. | Matriz de comparação entre execuções. |
 | RQ-07 | Concluir uma consulta dentro de limite de tempo e de consumo de tokens definido. | Desempenho | Média | Em 20 execuções em modo ReAct, p95 do tempo total ≤ 8 min e média de tokens dentro do orçamento fixado no plano de teste. | Log de tempo por rodada e contagem de tokens. |
 | RQ-08 | Submeter a resposta a revisão humana antes do uso, apresentando limitações e nível de confiança. | Supervisão humana | Alta | 100% dos relatórios contêm seção de limitações e indicação de confiança; checklist de revisão preenchido antes da liberação. | Relatórios gerados e checklists de revisão. |
+ 
+## Pendente
+ 
+RQ-09 em diante
