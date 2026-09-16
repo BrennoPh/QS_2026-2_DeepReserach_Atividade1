@@ -1,6 +1,6 @@
 # Parte 2 — Requisitos de qualidade
 
-Disciplina: Qualidade de Software — AV1 (2026.2) · Responsáveis: Godoy + (colega a definir)
+Disciplina: Qualidade de Software — AV1 (2026.2) · Responsáveis: Godoy + Daniel
 
 **Projeto:** [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) — Apache 2.0
 **Recorte avaliado:** fontes, planejamento e confabulação
