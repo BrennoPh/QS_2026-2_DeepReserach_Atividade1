@@ -26,6 +26,4 @@ Os critérios abaixo assumem que a resposta do agente é insumo para decisão hu
 | RQ-10 | Executar chamadas de código e manipulação de arquivos em sandbox isolado, sem exposição de credenciais em logs ou saídas. | Segurança | Alta | 100% dos blocos executados operam sem acesso a rede host/variáveis de ambiente, e nenhum log ou mensagem de saída expõe chaves de API ou tokens de autenticação. | Arquivo de configuração do sandbox, logs de auditoria e varredura de segredos. |
 | RQ-11 | Sanitizar e proteger dados de identificação pessoal (PII) inseridos nas consultas durante as chamadas externas. | Privacidade | Média | Em 20 execuções contendo dados sensíveis de teste (e-mails, CPFs/IDs simulados), 100% das consultas repassadas a buscadores externos possuem mascaramento prévio. | Logs de payloads enviados a serviços de terceiros e relatório de conformidade. |
 
-## Pendente
 
-Categorias restantes a critério da equipe: interação/usabilidade, manutenibilidade e flexibilidade.
