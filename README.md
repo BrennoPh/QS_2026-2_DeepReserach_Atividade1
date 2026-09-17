@@ -25,7 +25,7 @@ Avaliação inicial de qualidade de uma aplicação de IA generativa
 
 ## Vídeo da atividade
 
-**URL:** *a preencher*
+**URL:** (https://youtu.be/Sk3gfnloTnI?is=OQ3gvninRZX99Upi)
 
 Detalhes de gravação e participantes em [`VIDEO.md`](VIDEO.md).
 
