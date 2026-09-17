@@ -29,14 +29,18 @@ Avaliação inicial de qualidade de uma aplicação de IA generativa
 
 Detalhes de gravação e participantes em [`VIDEO.md`](VIDEO.md).
 
+## Contribuição Individual
+
+* **Brenno Phelipe Silva dos Santos** (202400050750): Definição do contexto operacional, levantamento de partes interessadas e expectativas de qualidade (Seção 1).
+* **Daniel José Silva Trindade** (202200059698): Mapeamento e modelagem conceitual das normas internacionais ISO/IEC 25010, 25012 e 42001.
+* **Emilly Kathellen de Jesus Oliveira** (202400050830): Estruturação formal dos Casos de Teste e condução da Avaliação Prática de Variabilidade.
+* **Filipe de Carvalho Godoy** (202100115408): Especificação detalhada dos requisitos RQ-01 a RQ-08, diagnóstico técnico e elaboração do README.
+* **Giovani Barros Luna Gomes** (202400050885): Adaptação do código para consumo de APIs gratuitas, execução dos testes práticos e mapeamento de falhas de segurança.
+* **Lais Santos de Sousa** (202100115364): Classificação de achados de testes por gravidade, estruturação do plano de melhoria e elaboração da Declaração de Uso de IA.
+* **Thiago Mecena Silva** (202100045840): Consolidação técnica do relatório, revisão normativa, métricas de governança de IA e supervisão do projeto.
+
 ## Entregáveis (até 16/09/2026)
 
 - [ ] Relatório técnico em PDF (8 a 12 páginas, excluídos anexos)
-- [ ] Apresentação em PDF ou slides
-- [ ] Planilha ou arquivo estruturado com requisitos e casos de teste
-- [ ] Evidências: capturas, logs, respostas e fontes
-- [ ] Declaração de Uso de IA Generativa
-- [ ] Tabela de contribuição individual
-- [ ] URL do vídeo no README, no `VIDEO.md`, no relatório e no Classroom
 
 **Apresentação:** 17/09/2026.
