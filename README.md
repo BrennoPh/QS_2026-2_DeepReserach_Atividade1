@@ -20,8 +20,9 @@ Avaliação inicial de qualidade de uma aplicação de IA generativa
 | 02 | Daniel José Silva Trindade | 202200059698 |
 | 03 | Emilly Kathellen de Jesus Oliveira | 202400050830 |
 | 04 | Filipe de Carvalho Godoy | 202100115408 |
-| 05 | Lais Santos de Sousa | 202100115364 |
-| 06 | Thiago Mecena Silva | 202100045840 |
+| 05 | Giovani Barros Luna Gomes | 202400050885 |
+| 06 | Lais Santos de Sousa | 202100115364 |
+| 07 | Thiago Mecena Silva | 202100045840 |
 
 ## Vídeo da atividade
 
